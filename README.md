@@ -4,7 +4,9 @@ This Java program demonstrates how to extract and manipulate the digits of a giv
 Example Input:
 
 57
+
+
 Output:
 
-7     // Last digit of 57
-5     // First digit of 57
+7     
+5     
